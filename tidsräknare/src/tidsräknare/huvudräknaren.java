@@ -8,7 +8,7 @@ public class huvudräknaren {
 		System.out.println("Det gick");
 		//superklassen test = new superklassen();
 		System.out.println("Så nu jävlar är det bara att kötta!!");
-		System.out.println("asdasd");
+		System.out.println("hahahaha");
 
 	}
 
