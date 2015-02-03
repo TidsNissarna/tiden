@@ -10,7 +10,8 @@ public class huvudräknaren {
 		System.out.println("Så nu jävlar är det bara att kötta!!");
 		System.out.println("hahahaha");
 		System.out.println("hohoho hehehe synced");
-		System.out.println("eller inte");
+		System.out.println("Går inte bra!!");
+		
 
 	}
 
