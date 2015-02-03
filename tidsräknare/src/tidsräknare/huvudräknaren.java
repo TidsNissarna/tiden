@@ -6,12 +6,18 @@ public class huvudräknaren {
 		// TODO Auto-generated method stub
 		System.out.println("hehehe");
 		System.out.println("Det gick");
-		// superklassen test = new superklassen();
+
 		System.out.println("Så nu jävlar är det bara att kötta!!");
 		System.out.println("hahahaha");
 		System.out.println("hohoho hehehe synced");
 		System.out.println("Går inte bra!!");
 		
+
+		System.out.println("asd testar merger");
+
+		superklassen test = new superklassen();
+
+		System.out.println(test.supderduper);
 
 	}
 
