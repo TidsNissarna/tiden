@@ -6,6 +6,7 @@ public class huvudräknaren {
 		// TODO Auto-generated method stub
 		System.out.println("hehehe");
 		System.out.println("Det gick");
+		superklassen test = new superklassen();
 
 	}
 
